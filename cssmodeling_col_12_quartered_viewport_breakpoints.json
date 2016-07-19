@@ -2,7 +2,7 @@
 
     "groups":{
 		"12_col_vw_quartered":{
-			"title":"Horizontal Grid - 12 Column (Quartered) ViewPort with Breakpoints",
+			"title":"Horizontal Grid - 12/16/.. Column (Quartered) ViewPort with Breakpoints",
 			"description":""
 		}
     },
